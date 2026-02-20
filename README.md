@@ -1,5 +1,7 @@
 # De Novo Protein Binder Design & Validation Pipeline
 
+> **Note:** This repository serves as an archive of my computational work for iGEM. The Jupyter notebooks provided here are specifically designed and intended to be run in **Google Colab**, as they rely on Colab's environment setup and GPU provisioning.
+
 This repository contains a two-step computational pipeline for the *de novo* design of novel protein binders and their structural validation. The pipeline leverages deep learning-based generative models for design, and classical physics-based docking for validation.
 
 ## Overview
